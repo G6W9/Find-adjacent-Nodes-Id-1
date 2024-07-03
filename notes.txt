@@ -1,0 +1,24 @@
+input: matrix representation of nodes, node_a, node_b
+
+return: are node_a and node_b adjacent? (return value 0 or 1)
+
+n=[
+  [ 0, 1, 0, 0 ],
+  [ 1, 0, 1, 1 ],
+  [ 0, 1, 0, 1 ],
+  [ 0, 1, 1, 0 ]
+]
+
+node_a=1
+
+node_b=2
+
+def is_adjacent(matrix, node1, node2):
+    if matrix[node1-1][node2-1]==1:
+        return True
+    return False
+
+def is_adjacent(matrix, node1, node2):
+    if matrix[node1][node2]==1:
+        return True
+    return False
