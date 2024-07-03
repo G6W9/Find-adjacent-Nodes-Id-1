@@ -1,2 +1,5 @@
 # Find-adjacent-Nodes-Id-1
-silly writup of a topic not worth this effort
+
+Writ-up of the Problem "Find adjacent nodes" by Chris santamaria
+
+Link: https://edabit.com/challenge/3DAkZHv2LZjgqWbvW
